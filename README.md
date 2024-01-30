@@ -43,7 +43,7 @@
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
 ### ОТВЕТ:
-![Скриншот-1](https://github.com/Monooks/9-03_NetoHW/blob/main/img/9.03_1.png)
+![Скриншот-1](https://github.com/temagraf/zabbix2-homework/tree/main/img/9.03_1.png)
  ---
 
 ### Задание 2
@@ -75,9 +75,9 @@
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
 ### ОТВЕТ:
-![Скриншот-2](https://github.com/Monooks/9-03_NetoHW/blob/main/img/9.03_2.png)
-![Скриншот-3](https://github.com/Monooks/9-03_NetoHW/blob/main/img/9.03_3.png)
-![Скриншот-4](https://github.com/Monooks/9-03_NetoHW/blob/main/img/9.03_4.png)
+![Скриншот-2](https://github.com/temagraf/zabbix2-homework/tree/main/img/9.03_2.png)
+![Скриншот-3](https://github.com/temagraf/zabbix2-homework/tree/main/img/9.03_3.png)
+![Скриншот-4](https://github.com/temagraf/zabbix2-homework/tree/main/img/9.03_4.png)
 
  ---
 
@@ -93,7 +93,7 @@
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
 ### ОТВЕТ:
-![Скриншот-5](https://github.com/Monooks/9-03_NetoHW/blob/main/img/9.03_5.png)
+![Скриншот-5](https://github.com/temagraf/zabbix2-homework/tree/main/img/9.03_5.png)
 
  ---
 
